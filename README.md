@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1813-maximum-erasure-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
