@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1813-maximum-erasure-value) |
+| [1833-find-the-highest-altitude](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1833-find-the-highest-altitude) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1833-find-the-highest-altitude) |
 ## Backtracking
 |  |
 | ------- |
