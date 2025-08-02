@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0649-dota2-senate) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
