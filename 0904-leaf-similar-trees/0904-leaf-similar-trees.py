@@ -1,5 +1,3 @@
-# Definition for a binary tree node.
-# The TreeNode class is already correct.
 
 class Solution:
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
