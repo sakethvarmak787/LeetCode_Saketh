@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0826-soup-servings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0394-decode-string) |
 ## Array
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2400-minimum-score-after-removals-on-a-tree) |
