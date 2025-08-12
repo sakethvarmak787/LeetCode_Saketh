@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0904-leaf-similar-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Two Pointers
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Segment Tree
 |  |
