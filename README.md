@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0342-power-of-four) |
