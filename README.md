@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1013-fibonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0867-new-21-game) |
 ## Binary Search Tree
 |  |
 | ------- |
