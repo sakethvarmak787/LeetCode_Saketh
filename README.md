@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2428-equal-row-and-column-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2428-equal-row-and-column-pairs) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0735-asteroid-collision) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2470-removing-stars-from-a-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3790-fruits-into-baskets-ii) |
