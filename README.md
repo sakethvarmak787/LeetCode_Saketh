@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0118-pascals-triangle) |
+| [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0334-increasing-triplet-subsequence) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0437-path-sum-iii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0871-keys-and-rooms](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0871-keys-and-rooms) |
@@ -419,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
