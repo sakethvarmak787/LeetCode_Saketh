@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0735-asteroid-collision) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
