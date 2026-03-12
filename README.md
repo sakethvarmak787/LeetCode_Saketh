@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0871-keys-and-rooms](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0783-search-in-a-binary-search-tree) |
 ## Graph
 |  |
