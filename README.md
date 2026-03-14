@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0037-sudoku-solver) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0283-move-zeroes) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0016-3sum-closest) |
 | [0900-reordered-power-of-2](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0900-reordered-power-of-2) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1798-max-number-of-k-sum-pairs) |
