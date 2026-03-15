@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0037-sudoku-solver) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0222-count-complete-tree-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
