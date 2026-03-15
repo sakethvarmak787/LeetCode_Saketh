@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0414-third-maximum-number) |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0443-string-compression) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
