@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0334-increasing-triplet-subsequence) |
+| [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0414-third-maximum-number) |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0605-can-place-flowers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
 | [0826-soup-servings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0187-repeated-dna-sequences) |
+| [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0940-fruit-into-baskets) |
