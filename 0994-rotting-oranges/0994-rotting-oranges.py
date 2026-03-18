@@ -11,8 +11,6 @@ class Solution:
 
         for r in range(rows):
             for c in range(cols):
-
-                
                 if grid[r][c] == 2:
                     q.append((r,c))
 
