@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0414-third-maximum-number) |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0547-number-of-provinces) |
 ## Divide and Conquer
 |  |
@@ -589,6 +594,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0547-number-of-provinces) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
