@@ -1,20 +1,16 @@
-from typing import List
-
 class Solution:
-    def productExceptSelf(self, nums: List[int]) -> List[int]:
+    def productExceptSelf(self, nums):
         n = len(nums)
-        output = [1] * n
-        
-        
-        prefix = 1
+        res = [1] * n
+
+        left = 1
         for i in range(n):
-            output[i] = prefix
-            prefix *= nums[i]
-        
-        
-        suffix = 1
-        for i in range(n - 1, -1, -1):
-            output[i] *= suffix
-            suffix *= nums[i]
-        
-        return output
+            res[i] = left
+            left *= nums[i]
+
+        right = 1
+        for i in range(n-1, -1, -1):
+            res[i] *= right
+            right *= nums[i]
+
+        return res
