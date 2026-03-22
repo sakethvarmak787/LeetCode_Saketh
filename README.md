@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0088-merge-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0179-largest-number) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0735-asteroid-collision) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2343-count-unguarded-cells-in-the-grid) |
