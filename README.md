@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0334-increasing-triplet-subsequence) |
