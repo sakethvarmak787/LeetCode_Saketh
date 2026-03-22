@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0216-combination-sum-iii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
