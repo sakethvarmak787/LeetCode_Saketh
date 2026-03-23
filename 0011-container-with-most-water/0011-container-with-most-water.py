@@ -1,19 +1,18 @@
+from typing import List
+
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        left = 0
-        right = len(height) - 1
-        max_water = 0
+        beg = 0
+        end = len(height) - 1
+        max_area = 0
+                            #area*distance: min(1,7)* distance between them
 
-        while left < right:
-            width = right - left
-            ht = min(height[left], height[right])
-            area = ht * width
-            max_water = max(max_water, area)
+        while beg < end:
+            max_area = max(max_area, min(height[beg], height[end]) * (end - beg))
 
-            
-            if height[left] < height[right]:
-                left += 1
+            if height[beg] >= height[end]:
+                end -= 1
             else:
-                right -= 1
+                beg += 1
 
-        return max_water
+        return max_area
