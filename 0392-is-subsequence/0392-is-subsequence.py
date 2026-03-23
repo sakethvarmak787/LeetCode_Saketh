@@ -8,6 +8,7 @@ class Solution:
             j+=1
         return i==len(s)
             
+        # if characters match move both, alwats move t pointer
                 
 
         
