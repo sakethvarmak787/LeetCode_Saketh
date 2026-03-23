@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0189-rotate-array) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0283-move-zeroes) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
