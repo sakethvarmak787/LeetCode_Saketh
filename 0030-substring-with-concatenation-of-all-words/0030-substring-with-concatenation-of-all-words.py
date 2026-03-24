@@ -1,57 +1,56 @@
 class Solution:
     def findSubstring(self, s, words):
         
-        # result list to store valid starting indices
-        res = []
+        if not s or not words:
+            return []
         
-        # length of each word
         word_len = len(words[0])
-        
-        # total number of words
         total_words = len(words)
-        
-        # total length of concatenated substring
         total_len = word_len * total_words
         
-        # build frequency map of given words
         word_count = {}
-        for word in words:
-            word_count[word] = word_count.get(word, 0) + 1
+        for w in words:
+            word_count[w] = word_count.get(w, 0) + 1
         
-        # go through every possible starting index
-        for i in range(len(s) - total_len + 1):
+        res = []
+        
+        # try all offsets (VERY IMPORTANT)
+        for i in range(word_len):
             
-            # dictionary to track words we see in current window
+            left = i
+            right = i
+            
             seen = {}
+            count = 0  # number of valid words in window
             
-            # we will try to match all words
-            j = 0
-            
-            # try to take words one by one from substring
-            while j < total_words:
+            while right + word_len <= len(s):
                 
-                # calculate start index of current word
-                start = i + j * word_len
+                # take word from right
+                word = s[right:right + word_len]
+                right += word_len
                 
-                # extract word of size word_len
-                word = s[start:start + word_len]
+                # case 1: word is valid
+                if word in word_count:
+                    
+                    seen[word] = seen.get(word, 0) + 1
+                    count += 1
+                    
+                    # too many of same word → shrink
+                    while seen[word] > word_count[word]:
+                        
+                        left_word = s[left:left + word_len]
+                        seen[left_word] -= 1
+                        left += word_len
+                        count -= 1
+                    
+                    # valid window found---> here we get the index of that word
+                    if count == total_words:
+                        res.append(left)
                 
-                # if word is not in expected list, break early
-                if word not in word_count:
-                    break
-                
-                # add to seen count
-                seen[word] = seen.get(word, 0) + 1
-                
-                # if frequency exceeds expected → invalid
-                if seen[word] > word_count[word]:
-                    break
-                
-                # move to next word
-                j += 1
-            
-            # if we matched all words → valid index
-            if j == total_words:
-                res.append(i)
+                # case 2: invalid word → reset
+                else:
+                    seen.clear()
+                    count = 0
+                    left = right
         
         return res
