@@ -1,18 +1,28 @@
 class Solution:
-  def isValidSudoku(self, board: list[list[str]]) -> bool:
-    seen = set()
-
-    for i in range(9):
-      for j in range(9):
-        c = board[i][j]
-        if c == '.':
-          continue
-        if (c + '@row ' + str(i) in seen or
-            c + '@col ' + str(j) in seen or
-                c + '@box ' + str(i // 3) + str(j // 3) in seen):
-          return False
-        seen.add(c + '@row ' + str(i))
-        seen.add(c + '@col ' + str(j))
-        seen.add(c + '@box ' + str(i // 3) + str(j // 3))
-
-    return True
+    def isValidSudoku(self, board):
+        
+        rows = [set() for _ in range(9)]
+        cols = [set() for _ in range(9)]
+        boxes = [set() for _ in range(9)]
+        
+        for r in range(9):
+            for c in range(9):
+                
+                val = board[r][c]
+                
+                if val == ".":
+                    continue
+                
+                # calculate box index
+                box = (r // 3) * 3 + (c // 3)
+                
+                # check duplicates
+                if val in rows[r] or val in cols[c] or val in boxes[box]:
+                    return False
+                
+                # add value
+                rows[r].add(val)
+                cols[c].add(val)
+                boxes[box].add(val)
+        
+        return True
