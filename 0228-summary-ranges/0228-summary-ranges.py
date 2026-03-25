@@ -2,20 +2,24 @@ class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
 
         res = []
-        i = 0
+        if not nums:
+            return res
 
-        while i < len(nums):
-            start = nums[i]       
-            
-            while i + 1 < len(nums) and nums[i+1] == nums[i] + 1:
-                i += 1
+        start = nums[0]
 
-            end = nums[i]
-            
-            if start != end:
-                res.append(str(start) + "->" + str(end))
-            else:
-                res.append(str(start))
-            i += 1
+        for i in range(1,len(nums)):
+            if nums[i] != nums[i-1] +1:
+                if start == nums[i-1]:
+                    res.append(str(start))
+                else:
+                    res.append(str(start)+"->"+str(nums[i-1]))
+
+                start = nums[i]
+
+        if start == nums[-1]:
+            res.append(str(start))
+
+        else:
+            res.append(str(start)+"->"+str(nums[-1]))
 
         return res
