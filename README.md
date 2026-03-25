@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0056-merge-intervals) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0076-minimum-window-substring) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0169-majority-element) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0088-merge-sorted-array) |
