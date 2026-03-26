@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0735-asteroid-collision) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0969-number-of-recent-calls) |
