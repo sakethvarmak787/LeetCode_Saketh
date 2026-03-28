@@ -5,7 +5,7 @@ class Solution:
     def rightSideView(self, root: Optional['TreeNode']) -> List[int]:
         if not root:
             return []
-        
+                 
         res = []
         q = deque([root])
         
@@ -13,8 +13,7 @@ class Solution:
             level_length = len(q)
             for i in range(level_length):
                 node = q.popleft()
-                
-               
+                              
                 if i == level_length - 1:
                     res.append(node.val)
                 
