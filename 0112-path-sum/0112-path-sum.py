@@ -3,7 +3,7 @@ class Solution:
         if not root:
             return False
         
-        # if leaf node
+        # if leaf node check for the condition as we came to last
         if not root.left and not root.right:
             return targetSum == root.val
         
