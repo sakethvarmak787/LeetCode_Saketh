@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0145-binary-tree-postorder-traversal) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0145-binary-tree-postorder-traversal) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0145-binary-tree-postorder-traversal) |
