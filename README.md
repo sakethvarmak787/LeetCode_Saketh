@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0151-reverse-words-in-a-string) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0099-recover-binary-search-tree) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0679-24-game) |
@@ -624,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0289-game-of-life) |
