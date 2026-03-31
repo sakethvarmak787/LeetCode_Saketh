@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0257-binary-tree-paths) |
