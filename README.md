@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0189-rotate-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0076-minimum-window-substring) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0231-power-of-two) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
