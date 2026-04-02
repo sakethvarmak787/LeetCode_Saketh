@@ -11,7 +11,7 @@ class Solution:
 
                 if nums[mid] == target:
                     ans = mid
-                    right = mid - 1   
+                    right = mid - 1   # we might find earlier mid, so dont stop
                 elif nums[mid] < target:
                     left = mid + 1
                 else:
