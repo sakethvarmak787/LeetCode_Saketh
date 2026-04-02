@@ -1,11 +1,8 @@
 class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
-        res = []
+    def singleNumber(self, nums: list[int]) -> int:
+        res = 0
 
-        for i in range(len(nums)):
-            if nums[i] not in res:
-                res.append(nums[i])
-            else:
-                res.remove(nums[i])
+        for num in nums:
+            res ^= num   # XOR
 
-        return res[0]
+        return res
