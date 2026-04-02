@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0074-search-a-2d-matrix) |
