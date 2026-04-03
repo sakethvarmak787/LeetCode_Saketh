@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0374-guess-number-higher-or-lower) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0875-koko-eating-bananas) |
