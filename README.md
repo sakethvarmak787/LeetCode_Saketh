@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0189-rotate-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0162-find-peak-element) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0202-happy-number) |
@@ -856,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0149-max-points-on-a-line) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Union-Find
 |  |
