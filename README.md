@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0073-set-matrix-zeroes) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0118-pascals-triangle) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0079-word-search) |
