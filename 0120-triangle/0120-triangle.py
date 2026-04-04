@@ -1,19 +1,12 @@
 class Solution:
     def minimumTotal(self, triangle):
 
-        memo = {}
+        # copy last row
+        dp = triangle[-1][:]
 
-        def dfs(i, j):
-            if (i, j) in memo:
-                return memo[(i, j)]
+        # go bottom → top
+        for i in range(len(triangle) - 2, -1, -1):
+            for j in range(len(triangle[i])):
+                dp[j] = triangle[i][j] + min(dp[j], dp[j + 1])
 
-            if i == len(triangle) - 1:
-                return triangle[i][j]
-
-            down = dfs(i + 1, j)
-            diag = dfs(i + 1, j + 1)
-
-            memo[(i, j)] = triangle[i][j] + min(down, diag)
-            return memo[(i, j)]
-
-        return dfs(0, 0)
+        return dp[0]
