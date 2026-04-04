@@ -2,10 +2,11 @@ class Solution:
     def minPathSum(self, grid):
         m, n = len(grid), len(grid[0])
 
-        dp = [[0]*n for _ in range(m)]
+        dp = [[0]*n for _ in range(m)] #creating new with all zeroes
 
-        dp[m-1][n-1] = grid[m-1][n-1]
-
+        dp[m-1][n-1] = grid[m-1][n-1] #keeping last row,col value from grid
+        #then start build, bottom row first and last column next
+        
         # last row
         for j in range(n-2, -1, -1):
             dp[m-1][j] = grid[m-1][j] + dp[m-1][j+1]
