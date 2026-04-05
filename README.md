@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0257-binary-tree-paths) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Hash Table
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
