@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0289-game-of-life) |
 | [0427-construct-quad-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
