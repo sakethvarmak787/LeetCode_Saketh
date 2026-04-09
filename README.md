@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1448-maximum-69-number) |
+| [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
+| [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1833-find-the-highest-altitude) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
+| [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
+| [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2428-equal-row-and-column-pairs) |
@@ -925,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0139-word-break) |
 | [0913-cat-and-mouse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0913-cat-and-mouse) |
 | [1013-fibonacci-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1013-fibonacci-number) |
+| [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Monotonic Stack
 |  |
@@ -988,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0913-cat-and-mouse) |
 | [1462-course-schedule-iv](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1021,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0802-find-eventual-safe-states) |
 | [0913-cat-and-mouse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0913-cat-and-mouse) |
 | [1462-course-schedule-iv](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1462-course-schedule-iv) |
+| [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1034,4 +1041,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0913-cat-and-mouse) |
+| [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 <!---LeetCode Topics End-->
