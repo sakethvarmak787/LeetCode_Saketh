@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0437-path-sum-iii) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0404-sum-of-left-leaves) |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0547-number-of-provinces) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -1004,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0310-minimum-height-trees) |
 ## Merge Sort
 |  |
 | ------- |
