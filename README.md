@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0802-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0802-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0871-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0994-rotting-oranges) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0802-find-eventual-safe-states) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Shortest Path
 |  |
@@ -1008,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0802-find-eventual-safe-states) |
 ## Merge Sort
 |  |
 | ------- |
