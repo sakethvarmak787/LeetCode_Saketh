@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0345-reverse-vowels-of-a-string) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0282-expression-add-operators) |
 | [0491-non-decreasing-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
