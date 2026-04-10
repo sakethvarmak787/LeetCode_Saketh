@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0491-non-decreasing-subsequences) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0282-expression-add-operators) |
+| [0401-binary-watch](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
