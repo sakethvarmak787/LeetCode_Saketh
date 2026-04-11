@@ -6,11 +6,11 @@ class Solution:
         need = Counter(t)
         window = {}
 
-        have = 0
+        have = 0       #from t how many we have    
         required = len(need)
 
         left = 0
-        res = [-1, -1]
+        res = [-1, -1] #[left,right]
         res_len = float('inf')
 
         for right in range(len(s)):
@@ -25,14 +25,14 @@ class Solution:
 
                 if (right - left + 1) < res_len:
                     res = [left, right]
-                    res_len = right - left + 1
+                    res_len = right - left + 1 #gives length of current string
 
-                window[s[left]] -= 1
+                window[s[left]] -= 1 #remove first of that string
 
                 if s[left] in need and window[s[left]] < need[s[left]]:
                     have -= 1
 
-                left += 1
+                left += 1 
 
         l, r = res
         return s[l:r+1] if res_len != float('inf') else ""
