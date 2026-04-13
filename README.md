@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1833-find-the-highest-altitude) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2079-delete-duplicate-folders-in-system) |
