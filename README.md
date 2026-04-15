@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2470-removing-stars-from-a-string) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Depth-First Search
 |  |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Quickselect
 |  |
@@ -999,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Graph Theory
 |  |
 | ------- |
