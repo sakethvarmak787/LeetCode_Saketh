@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0414-third-maximum-number) |
 | [0427-construct-quad-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0456-132-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0456-132-pattern) |
 | [0491-non-decreasing-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0502-ipo) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0735-asteroid-collision) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0456-132-pattern) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0456-132-pattern) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2336-smallest-number-in-infinite-set) |
 | [3790-fruits-into-baskets-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3791-fruits-into-baskets-iii) |
@@ -978,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0456-132-pattern) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
 ## Geometry
 |  |
