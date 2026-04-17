@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
+| [0638-shopping-offers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0646-maximum-length-of-pair-chain) |
 | [0679-24-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0679-24-game) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
+| [0638-shopping-offers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0826-soup-servings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0826-soup-servings) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0491-non-decreasing-subsequences) |
+| [0638-shopping-offers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0638-shopping-offers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0491-non-decreasing-subsequences) |
+| [0638-shopping-offers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
@@ -993,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0139-word-break) |
+| [0638-shopping-offers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0638-shopping-offers) |
 | [0913-cat-and-mouse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0913-cat-and-mouse) |
 | [1013-fibonacci-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1013-fibonacci-number) |
 | [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
@@ -1112,4 +1117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0913-cat-and-mouse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0913-cat-and-mouse) |
 | [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
