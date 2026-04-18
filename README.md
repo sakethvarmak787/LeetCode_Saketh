@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0994-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
+| [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1093-statistics-from-a-large-sample](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1093-statistics-from-a-large-sample) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0940-fruit-into-baskets) |
+| [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-unique-number-of-occurrences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0649-dota2-senate) |
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
+| [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
 | [1448-maximum-69-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -806,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0825-friends-of-appropriate-ages) |
 | [0900-reordered-power-of-2](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0900-reordered-power-of-2) |
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
+| [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -830,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0900-reordered-power-of-2) |
+| [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
