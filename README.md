@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0679-24-game) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0724-find-pivot-index) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2336-smallest-number-in-infinite-set) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-new-21-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0940-fruit-into-baskets) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0825-friends-of-appropriate-ages) |
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
@@ -759,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0456-132-pattern) |
+| [0658-find-k-closest-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0825-friends-of-appropriate-ages) |
@@ -796,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0825-friends-of-appropriate-ages) |
 | [0900-reordered-power-of-2](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0900-reordered-power-of-2) |
