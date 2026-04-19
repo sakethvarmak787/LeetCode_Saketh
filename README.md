@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0187-repeated-dna-sequences) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0131-palindrome-partitioning) |
