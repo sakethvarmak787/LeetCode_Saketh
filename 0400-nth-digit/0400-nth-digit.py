@@ -20,25 +20,13 @@ class Solution:
             count *= 10                # 9 → 90 → 900 → ...
             start *= 10                # 1 → 10 → 100 → ...
         
-        # ---- PARALLEL DRY RUN (n = 11) ----
-        # Initially: n = 11
-        # Skip 1-digit group → n = 2
-        # Now in 2-digit group (start = 10)
-        # -----------------------------------
-        
-        
         # Step 2: Find the exact number in this group
         
         # (n - 1) because indexing is 0-based
         index = (n - 1) // digit_length
         
         number = start + index
-        
-        # ---- DRY RUN ----
-        # index = (2-1)//2 = 0
-        # number = 10
-        # ------------------
-        
+    
         
         # Step 3: Find the exact digit inside that number
         
@@ -47,10 +35,5 @@ class Solution:
         # Convert number to string to access digit
         result_digit = str(number)[digit_index]
         
-        # ---- DRY RUN ----
-        # digit_index = (2-1)%2 = 1
-        # number = "10"
-        # result = "0"
-        # ------------------
         
         return int(result_digit)
