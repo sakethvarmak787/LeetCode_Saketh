@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0567-permutation-in-string) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0658-find-k-closest-elements) |
