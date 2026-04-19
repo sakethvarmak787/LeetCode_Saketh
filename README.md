@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
+| [0583-delete-operation-for-two-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0583-delete-operation-for-two-strings) |
 | [0638-shopping-offers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0657-robot-return-to-origin) |
