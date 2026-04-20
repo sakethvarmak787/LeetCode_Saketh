@@ -1,27 +1,30 @@
 class Solution:
     def maxDistance(self, colors):
         
-        # Step 1: initialize the answer
-        # This will store the maximum distance we find
+        n = len(colors)
+        
+        # Step 1: initialize answer
         max_distance = 0
         
-        # Step 2: loop over all possible first houses
-        for i in range(len(colors)):
+        for i in range(n - 1, -1, -1):
             
-            # Step 3: for each i, try all possible second houses
-            for j in range(len(colors)):
+            # Check if colors are different
+            if colors[i] != colors[0]:
                 
-                # Step 4: check if the colors are different
-                # We only care about pairs with different colors
-                if colors[i] != colors[j]:
-                    
-                    # Step 5: compute the distance
-                    distance = abs(i - j)
-                    
-                    # Step 6: update max_distance if this is larger
-                    max_distance = max(max_distance, distance)
-                    
-                   
+                max_distance = i
+                break
         
-        # Step 7: return the final result
+        for i in range(n):
+            
+            if colors[i] != colors[n - 1]:
+                
+                # Distance = (n-1) - i
+                max_distance = max(max_distance, (n - 1) - i)
+                
+                # Break because we found the farthest from this side
+                break
+            
+          
+        
+        
         return max_distance
