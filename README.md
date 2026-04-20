@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0940-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0962-maximum-width-ramp) |
 | [0994-rotting-oranges](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0994-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
 | [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0739-daily-temperatures) |
+| [0962-maximum-width-ramp](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0962-maximum-width-ramp) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0825-friends-of-appropriate-ages) |
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0962-maximum-width-ramp) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1894-merge-strings-alternately) |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0739-daily-temperatures) |
+| [0962-maximum-width-ramp](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0962-maximum-width-ramp) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
 ## Geometry
 |  |
