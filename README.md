@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0187-repeated-dna-sequences) |
+| [0572-subtree-of-another-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0904-leaf-similar-trees) |
@@ -1071,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0904-leaf-similar-trees) |
@@ -1169,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0572-subtree-of-another-tree) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Quickselect
