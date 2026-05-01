@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0633-sum-of-square-numbers) |
 | [0679-24-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0679-24-game) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0414-third-maximum-number) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
 | [0583-delete-operation-for-two-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0583-delete-operation-for-two-strings) |
 | [0638-shopping-offers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0638-shopping-offers) |
