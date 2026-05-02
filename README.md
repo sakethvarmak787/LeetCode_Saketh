@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0658-find-k-closest-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0679-24-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0679-24-game) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0724-find-pivot-index) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0658-find-k-closest-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0648-replace-words) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
 | [0900-reordered-power-of-2](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0940-fruit-into-baskets) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0649-dota2-senate) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0881-boats-to-save-people](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
 | [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
