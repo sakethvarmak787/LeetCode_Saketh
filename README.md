@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0796-rotate-string) |
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1194,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0796-rotate-string) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Quickselect
