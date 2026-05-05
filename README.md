@@ -1227,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
+| [1791-find-center-of-star-graph](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1791-find-center-of-star-graph) |
 ## Shortest Path
 |  |
 | ------- |
