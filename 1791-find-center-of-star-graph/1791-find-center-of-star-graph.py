@@ -7,8 +7,11 @@ class Solution:
         if c==a or d==a:
             return a
 
-        else:
+        elif c==b or d==b:
             return b
+
+        else:
+            return -1
             
 
                 
