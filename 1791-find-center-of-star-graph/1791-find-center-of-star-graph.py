@@ -2,10 +2,13 @@ from collections import Counter
 class Solution:
     def findCenter(self, edges: List[List[int]]) -> int:
         new = []
-        for sub in edges:
-            for val in sub:
-                new.append(val)
+        a,b= edges[0]
+        c,d = edges[1]
+        if c==a or d==a:
+            return a
 
-        dictt = Counter(new)
-        ans = max(dictt, key=dictt.get)
-        return ans
+        else:
+            return b
+            
+
+                
