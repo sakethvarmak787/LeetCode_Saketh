@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0796-rotate-string) |
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
+| [0844-backspace-string-compare](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0696-count-binary-substrings) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0825-friends-of-appropriate-ages) |
+| [0844-backspace-string-compare](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0962-maximum-width-ramp) |
@@ -1004,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0844-backspace-string-compare) |
 | [2069-walking-robot-simulation-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2343-count-unguarded-cells-in-the-grid) |
