@@ -1,8 +1,6 @@
 class Solution:
     def singleNumber(self, nums: list[int]) -> int:
-        res = 0
-
-        for num in nums:
-            res ^= num   # XOR
-
-        return res
+        new = Counter(nums) #{1:1}
+        for i in range(len(nums)):
+            if new[nums[i]] ==1:
+                return nums[i]
