@@ -1,10 +1,16 @@
 class Solution:
-  def maxSubArray(self, nums: list[int]) -> int:
-    # dp[i] := the maximum sum subarray ending in i
-    dp = [0] * len(nums)
+    def maxSubArray(self, nums):
+        
+        curr_sum = nums[0]
+        max_sum = nums[0]
 
-    dp[0] = nums[0]
-    for i in range(1, len(nums)):
-      dp[i] = max(nums[i], dp[i - 1] + nums[i])
+        for i in range(1, len(nums)):
 
-    return max(dp)
+            # Either continue old subarray
+            # OR start new subarray
+            curr_sum = max(nums[i], curr_sum + nums[i])
+
+            # Store best answer
+            max_sum = max(max_sum, curr_sum)
+
+        return max_sum
