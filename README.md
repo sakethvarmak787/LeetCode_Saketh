@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0491-non-decreasing-subsequences) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0900-reordered-power-of-2) |
 | [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
@@ -1022,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0918-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0969-number-of-recent-calls) |
