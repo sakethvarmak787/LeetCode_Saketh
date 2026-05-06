@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0274-h-index) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0274-h-index) |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0900-reordered-power-of-2) |
