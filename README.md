@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0400-nth-digit) |
+| [0415-add-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0679-24-game) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0443-string-compression) |
@@ -996,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0735-asteroid-collision) |
