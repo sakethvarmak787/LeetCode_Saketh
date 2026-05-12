@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0368-largest-divisible-subset) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
@@ -935,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0368-largest-divisible-subset) |
@@ -977,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
@@ -1253,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0654-maximum-binary-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0918-maximum-sum-circular-subarray) |
@@ -1270,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0347-top-k-frequent-elements) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1351,4 +1358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3589-count-prime-gap-balanced-subarrays) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
