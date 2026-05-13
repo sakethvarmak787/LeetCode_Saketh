@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
 | [0875-koko-eating-bananas](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0881-boats-to-save-people) |
+| [0890-find-and-replace-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0890-find-and-replace-pattern) |
 | [0909-snakes-and-ladders](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0821-shortest-distance-to-a-character) |
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
 | [0844-backspace-string-compare](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0844-backspace-string-compare) |
+| [0890-find-and-replace-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0811-subdomain-visit-count) |
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
+| [0890-find-and-replace-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0890-find-and-replace-pattern) |
 | [0900-reordered-power-of-2](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0940-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1002-find-common-characters) |
