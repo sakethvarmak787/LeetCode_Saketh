@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0344-reverse-string) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0387-first-unique-character-in-a-string) |
