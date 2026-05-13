@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0796-rotate-string) |
 | [0811-subdomain-visit-count](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0811-subdomain-visit-count) |
 | [0821-shortest-distance-to-a-character](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0821-shortest-distance-to-a-character) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0648-replace-words) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0767-reorganize-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0771-jewels-and-stones) |
 | [0811-subdomain-visit-count](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0811-subdomain-visit-count) |
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
 | [0900-reordered-power-of-2](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0900-reordered-power-of-2) |
