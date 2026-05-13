@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1894-merge-strings-alternately) |
