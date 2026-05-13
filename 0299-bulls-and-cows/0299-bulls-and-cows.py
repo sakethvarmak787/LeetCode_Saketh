@@ -10,7 +10,7 @@ class Solution:
 
         for i in range(len(secret)):
             if secret[i] != guess[i]:
-                if freq.get(guess[i], 0) > 0: #if the frequency of char is greater than 0
+                if freq.get(guess[i], 0) > 0: 
                     cow += 1
                     freq[guess[i]] -= 1
                     
