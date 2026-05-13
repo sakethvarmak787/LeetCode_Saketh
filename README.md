@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1657-determine-if-two-strings-are-close) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1480-running-sum-of-1d-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
