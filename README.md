@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
 | [0844-backspace-string-compare](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0890-find-and-replace-pattern) |
+| [0925-long-pressed-name](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0925-long-pressed-name) |
 | [1002-find-common-characters](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0825-friends-of-appropriate-ages) |
 | [0844-backspace-string-compare](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0881-boats-to-save-people) |
+| [0925-long-pressed-name](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0925-long-pressed-name) |
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0977-squares-of-a-sorted-array) |
