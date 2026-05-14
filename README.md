@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0940-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0962-maximum-width-ramp) |
+| [0977-squares-of-a-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1002-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0962-maximum-width-ramp) |
+| [0977-squares-of-a-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0977-squares-of-a-sorted-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0881-boats-to-save-people) |
 | [0900-reordered-power-of-2](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0900-reordered-power-of-2) |
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0977-squares-of-a-sorted-array) |
 | [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1636-sort-array-by-increasing-frequency) |
