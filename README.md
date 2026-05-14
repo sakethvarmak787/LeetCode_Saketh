@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2542-maximum-subsequence-score) |
