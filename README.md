@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2470-removing-stars-from-a-string) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3227-vowels-game-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3227-vowels-game-in-a-string) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Stack
