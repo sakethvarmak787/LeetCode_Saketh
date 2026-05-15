@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0046-permutations) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0076-minimum-window-substring) |
