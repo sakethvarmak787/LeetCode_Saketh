@@ -6,7 +6,7 @@ class Solution:
             if hashmap[nums[i]] > 1 and nums[i] not in res:
                 res.append(nums[i])
 
-        return res
+        return sorted(res)
 
         
 
