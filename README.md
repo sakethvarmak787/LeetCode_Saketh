@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1093-statistics-from-a-large-sample](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1093-statistics-from-a-large-sample) |
 | [1207-unique-number-of-occurrences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1207-unique-number-of-occurrences) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-unique-number-of-occurrences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1319-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
