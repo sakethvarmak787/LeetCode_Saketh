@@ -10,19 +10,11 @@ class Solution:
         window = SortedList()
 
         for right in range(len(nums)):
-
-            # add current element
             window.add(nums[right])
-
-            # valid window formed
             if right - left + 1 == k:
-
-                # odd length
                 if k % 2 == 1:
 
                     median = window[k // 2]
-
-                # even length
                 else:
 
                     median = (
@@ -32,7 +24,6 @@ class Solution:
 
                 res.append(median)
 
-                # remove left element
                 window.remove(nums[left])
 
                 left += 1
