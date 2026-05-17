@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2336-smallest-number-in-infinite-set) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1652-defuse-the-bomb) |
@@ -1227,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0918-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0969-number-of-recent-calls) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Data Stream
 |  |
@@ -1336,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0456-132-pattern) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2336-smallest-number-in-infinite-set) |
 | [3790-fruits-into-baskets-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3791-fruits-into-baskets-iii) |
@@ -1502,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0918-maximum-sum-circular-subarray) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Game Theory
 |  |
