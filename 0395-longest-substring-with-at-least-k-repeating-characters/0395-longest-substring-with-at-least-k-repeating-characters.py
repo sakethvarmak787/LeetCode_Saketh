@@ -14,8 +14,6 @@ class Solution:
                 ss[s[j]] += 1
 
                 valid = True
-
-                # check all frequencies
                 for val in ss.values():
 
                     if val < k:
