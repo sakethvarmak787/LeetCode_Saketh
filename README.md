@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1189-maximum-number-of-balloons) |
+| [1208-get-equal-substrings-within-budget](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1052-grumpy-bookstore-owner) |
+| [1208-get-equal-substrings-within-budget](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1029,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1208-get-equal-substrings-within-budget) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
