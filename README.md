@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-statistics-from-a-large-sample](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1093-statistics-from-a-large-sample) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1227-airplane-seat-assignment-probability](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1227-airplane-seat-assignment-probability) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1248-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1448-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1512-number-of-good-pairs) |
 | [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1093-statistics-from-a-large-sample](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1093-statistics-from-a-large-sample) |
 | [1207-unique-number-of-occurrences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
 | [1189-maximum-number-of-balloons](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-unique-number-of-occurrences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1319-unique-number-of-occurrences) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -987,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1674-minimum-moves-to-make-array-complementary) |
