@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2529-range-product-queries-of-powers) |
+| [2540-minimum-common-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2540-minimum-common-value) |
 | [2542-maximum-subsequence-score](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2542-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2751-robot-collisions) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2428-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2540-minimum-common-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2540-minimum-common-value) |
 | [2689-rearranging-fruits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2784-check-if-array-is-good) |
 | [3026-maximum-good-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3026-maximum-good-subarray-sum) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2540-minimum-common-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
@@ -1083,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3488-closest-equal-element-queries](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3661-maximum-walls-destroyed-by-robots) |
