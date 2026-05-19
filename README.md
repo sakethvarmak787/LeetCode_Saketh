@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0318-maximum-product-of-word-lengths) |
@@ -1008,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0930-binary-subarrays-with-sum) |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
 | [0909-snakes-and-ladders](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0909-snakes-and-ladders) |
@@ -1272,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0969-number-of-recent-calls) |
 | [2069-walking-robot-simulation-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2069-walking-robot-simulation-ii) |
