@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1248-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1448-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1512-number-of-good-pairs) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1695-maximum-erasure-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1695-maximum-erasure-value) |
 | [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 | [1732-find-the-highest-altitude](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1732-find-the-highest-altitude) |
@@ -1025,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1732-find-the-highest-altitude) |
 | [1833-find-the-highest-altitude](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1833-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1838-frequency-of-the-most-frequent-element) |
