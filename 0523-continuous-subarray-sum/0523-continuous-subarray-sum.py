@@ -10,11 +10,8 @@ class Solution:
             total += nums[i]
 
             rem = total % k
-
-            # if same remainder seen before
             if rem in seen:
 
-                # subarray length should be at least 2
                 if i - seen[rem] >= 2:
                     return True
 
