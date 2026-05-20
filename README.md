@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0605-can-place-flowers) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0567-permutation-in-string) |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0724-find-pivot-index) |
