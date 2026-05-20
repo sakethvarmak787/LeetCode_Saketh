@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1991-find-the-middle-index-in-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -1032,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1833-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1991-find-the-middle-index-in-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1991-find-the-middle-index-in-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2529-range-product-queries-of-powers) |
 | [2574-left-and-right-sum-differences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2574-left-and-right-sum-differences) |
