@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0969-pancake-sorting) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0994-rotting-oranges) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0940-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1002-find-common-characters) |
 | [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
@@ -1032,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1208-get-equal-substrings-within-budget) |
