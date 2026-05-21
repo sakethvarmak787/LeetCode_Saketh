@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3026-maximum-good-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3026-maximum-good-subarray-sum) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2470-removing-stars-from-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3227-vowels-game-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3227-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Depth-First Search
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0648-replace-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3026-maximum-good-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3026-maximum-good-subarray-sum) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3488-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Function
