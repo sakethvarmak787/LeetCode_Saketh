@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0118-pascals-triangle) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0125-valid-palindrome) |
