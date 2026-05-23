@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0523-continuous-subarray-sum) |
+| [0598-range-addition-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0679-24-game) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0560-subarray-sum-equals-k) |
+| [0598-range-addition-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0621-task-scheduler) |
 | [0638-shopping-offers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0638-shopping-offers) |
