@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0045-jump-game-ii) |
@@ -1108,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0052-n-queens-ii) |
