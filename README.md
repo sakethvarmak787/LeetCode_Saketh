@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0069-sqrtx) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0231-power-of-two) |
