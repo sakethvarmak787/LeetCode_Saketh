@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3026-maximum-good-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3026-maximum-good-subarray-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3093-longest-common-suffix-queries) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3161-block-placement-queries](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3161-block-placement-queries) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3227-vowels-game-in-a-string) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3093-longest-common-suffix-queries) |
 ## Hash Table
 |  |
 | ------- |
