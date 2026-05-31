@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3227-vowels-game-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3830-find-closest-person](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3161-block-placement-queries) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
