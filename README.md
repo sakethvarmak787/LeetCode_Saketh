@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0344-reverse-string) |
@@ -1175,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0491-non-decreasing-subsequences) |
@@ -1458,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
