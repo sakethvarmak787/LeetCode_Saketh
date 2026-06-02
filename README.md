@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0282-expression-add-operators) |
