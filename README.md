@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3355-zero-array-transformation-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3355-zero-array-transformation-i) |
+| [3356-zero-array-transformation-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3356-zero-array-transformation-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2540-minimum-common-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3356-zero-array-transformation-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3356-zero-array-transformation-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
 |  |
@@ -1155,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2574-left-and-right-sum-differences) |
 | [3026-maximum-good-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3026-maximum-good-subarray-sum) |
 | [3355-zero-array-transformation-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3355-zero-array-transformation-i) |
+| [3356-zero-array-transformation-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3356-zero-array-transformation-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -1243,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3161-block-placement-queries](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3161-block-placement-queries) |
+| [3356-zero-array-transformation-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3356-zero-array-transformation-ii) |
 | [3488-closest-equal-element-queries](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3661-maximum-walls-destroyed-by-robots) |
