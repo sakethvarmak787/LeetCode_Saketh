@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3355-zero-array-transformation-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3355-zero-array-transformation-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1153,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2529-range-product-queries-of-powers) |
 | [2574-left-and-right-sum-differences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2574-left-and-right-sum-differences) |
 | [3026-maximum-good-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3026-maximum-good-subarray-sum) |
+| [3355-zero-array-transformation-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3355-zero-array-transformation-i) |
 ## Backtracking
 |  |
 | ------- |
