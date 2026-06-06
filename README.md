@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1833-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1854-maximum-population-year](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1861-rotating-the-box) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -1160,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1833-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1854-maximum-population-year](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1854-maximum-population-year) |
 | [1871-jump-game-vii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1871-jump-game-vii) |
 | [1943-describe-the-painting](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1943-describe-the-painting) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1372,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1777-determine-if-two-strings-are-close) |
+| [1854-maximum-population-year](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Matrix
 |  |
