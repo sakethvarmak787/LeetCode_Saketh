@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0739-daily-temperatures) |
+| [0766-toeplitz-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0766-toeplitz-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0811-subdomain-visit-count](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0811-subdomain-visit-count) |
 | [0821-shortest-distance-to-a-character](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0821-shortest-distance-to-a-character) |
@@ -1404,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
+| [0766-toeplitz-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0766-toeplitz-matrix) |
 | [0909-snakes-and-ladders](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1091-shortest-path-in-binary-matrix) |
