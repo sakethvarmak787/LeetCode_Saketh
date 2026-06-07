@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1052-grumpy-bookstore-owner) |
 | [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1093-statistics-from-a-large-sample](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-car-pooling](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1094-car-pooling) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1002-find-common-characters) |
 | [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1189-maximum-number-of-balloons](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1046-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1109-corporate-flight-bookings) |
 | [1208-get-equal-substrings-within-budget](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1208-get-equal-substrings-within-budget) |
@@ -1408,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0766-toeplitz-matrix) |
 | [0909-snakes-and-ladders](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0994-rotting-oranges) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1402-count-square-submatrices-with-all-ones) |
