@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2090-k-radius-subarray-averages) |
 | [2126-destroying-asteroids](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2126-destroying-asteroids) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1943-describe-the-painting) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2336-smallest-number-in-infinite-set) |
 | [2402-meeting-rooms-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2402-meeting-rooms-iii) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Two Pointers
 |  |
@@ -1573,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Segment Tree
 |  |
 | ------- |
