@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2090-k-radius-subarray-averages](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2090-k-radius-subarray-averages) |
 | [2126-destroying-asteroids](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2126-destroying-asteroids) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1894-merge-strings-alternately) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -1445,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1094-car-pooling) |
 | [2069-walking-robot-simulation-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2402-meeting-rooms-iii) |
 | [2428-equal-row-and-column-pairs](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2428-equal-row-and-column-pairs) |
