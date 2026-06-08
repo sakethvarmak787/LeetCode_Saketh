@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0791-custom-sort-string) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0648-replace-words) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0763-partition-labels](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0791-custom-sort-string) |
@@ -963,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0942-di-string-match) |
@@ -1115,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0763-partition-labels) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0821-shortest-distance-to-a-character](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0825-friends-of-appropriate-ages) |
