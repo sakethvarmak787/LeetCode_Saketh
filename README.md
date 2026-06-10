@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2402-meeting-rooms-iii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2542-maximum-subsequence-score) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String
 |  |
 | ------- |
@@ -991,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
@@ -1610,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0729-my-calendar-i) |
 | [3161-block-placement-queries](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
