@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3830-find-closest-person](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3830-find-closest-person) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3488-closest-equal-element-queries](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3488-closest-equal-element-queries) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1971-find-if-path-exists-in-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
 |  |
 | ------- |
@@ -1032,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1087,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Two Pointers
 |  |
 | ------- |
