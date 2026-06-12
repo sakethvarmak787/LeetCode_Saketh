@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0433-minimum-genetic-mutation) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0491-non-decreasing-subsequences) |
 | [0638-shopping-offers](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0638-shopping-offers) |
@@ -1337,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0436-find-right-interval) |
