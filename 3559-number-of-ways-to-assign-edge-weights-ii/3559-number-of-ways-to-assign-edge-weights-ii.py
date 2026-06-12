@@ -8,7 +8,7 @@ class Solution:
         MOD = 10**9 + 7
         LOG_N = 18 
 
-        # 1. Ultra-fast flat list adjacency structure
+        
         adj = [[] for _ in range(n + 1)]
         for u, v in edges:
             adj[u].append(v); adj[v].append(u)
@@ -16,8 +16,7 @@ class Solution:
         up = [[0] * LOG_N for _ in range(n + 2)]
         depth = [0] * (n + 2)
 
-        # 2. Iterative BFS Queue (Replaces slow recursion)
-        # Element format: (current_node, parent_node, current_depth)
+    
         queue = collections.deque([(1, 0, 0)])
         visited = [False] * (n + 1)
         visited[1] = True
@@ -38,9 +37,7 @@ class Solution:
                 prev = up[i][j-1]
                 up[i][j] = up[prev][j-1] if prev != 0 else 0
 
-        # =========================================================================
-        # VECTORIZED VECTOR MATRIX PROCESSING
-        # =========================================================================
+       
         depth_np = np.array(depth, dtype=np.int32)
         up_np = np.array(up, dtype=np.int32)
         queries_np = np.array(queries, dtype=np.int32)
@@ -48,7 +45,7 @@ class Solution:
         u, v = queries_np[:, 0], queries_np[:, 1]
         orig_u, orig_v = u.copy(), v.copy()
 
-        # Step A: Leveling
+       
         swap_mask = depth_np[u] < depth_np[v]
         u[swap_mask], v[swap_mask] = v[swap_mask], u[swap_mask]
 
@@ -57,7 +54,7 @@ class Solution:
             jump_mask = (diff >> j) & 1 == 1
             u[jump_mask] = up_np[u[jump_mask], j]
 
-        # Step B: Climbing
+       
         for j in range(LOG_N - 1, -1, -1):
             jump_mask = (u != v) & (up_np[u, j] != up_np[v, j])
             u[jump_mask] = up_np[u[jump_mask], j]
@@ -67,16 +64,16 @@ class Solution:
         not_equal_mask = (u != v)
         lca[not_equal_mask] = up_np[u[not_equal_mask], 0]
 
-        # Step C: Combinatorial Parity math
+       
         path_lengths = depth_np[orig_u] + depth_np[orig_v] - 2 * depth_np[lca]
         
-        # Optimized lookup approach: precompute powers array using NumPy vectorization
+       
         pow2 = np.zeros(n + 2, dtype=np.int64)
         pow2[0] = 1
         for i in range(1, n + 2):
             pow2[i] = (pow2[i-1] * 2) % MOD
 
-        # Direct NumPy index extraction (Avoids slower element-by-element lambda maps)
+       
         ans = np.where(path_lengths == 0, 0, pow2[(path_lengths - 1).astype(np.int32)])
 
         return ans.tolist()
