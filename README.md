@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0890-find-and-replace-pattern) |
+| [0896-monotonic-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0909-snakes-and-ladders) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0915-partition-array-into-disjoint-intervals) |
