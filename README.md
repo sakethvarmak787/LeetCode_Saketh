@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3227-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3838-weighted-word-mapping) |
 ## Depth-First Search
 |  |
@@ -1509,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2470-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2751-robot-collisions) |
 | [3612-process-string-with-special-operations-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3838-weighted-word-mapping) |
