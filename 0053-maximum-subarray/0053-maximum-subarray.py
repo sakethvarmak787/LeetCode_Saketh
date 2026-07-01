@@ -6,11 +6,7 @@ class Solution:
 
         for i in range(1, len(nums)):
 
-            # Either continue old subarray
-            # OR start new subarray
             curr_sum = max(nums[i], curr_sum + nums[i])
-
-            # Store best answer
             max_sum = max(max_sum, curr_sum)
 
         return max_sum
