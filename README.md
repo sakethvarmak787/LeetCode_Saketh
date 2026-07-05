@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1248-count-number-of-nice-subarrays) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1301-number-of-paths-with-max-score](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-unique-number-of-occurrences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1319-unique-number-of-occurrences) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1013-fibonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1227-airplane-seat-assignment-probability) |
+| [1301-number-of-paths-with-max-score](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -1481,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1628-count-submatrices-with-all-ones) |
