@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1971-find-if-path-exists-in-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
@@ -1616,6 +1617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1754,6 +1756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2685-count-the-number-of-complete-components) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1815,6 +1818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-cat-and-mouse-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1728-cat-and-mouse-ii) |
 | [1791-find-center-of-star-graph](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2685-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
 | ------- |
