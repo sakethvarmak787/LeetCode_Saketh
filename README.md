@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-unique-number-of-occurrences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1340-jump-game-v) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1345-jump-game-iv) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-unique-number-of-occurrences](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1345-jump-game-iv) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1403,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1094-car-pooling) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1331-rank-transform-of-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1340-jump-game-v) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1636-sort-array-by-increasing-frequency) |
