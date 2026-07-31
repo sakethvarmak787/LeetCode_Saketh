@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2381-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2470-removing-stars-from-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3093-longest-common-suffix-queries) |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3026-maximum-good-subarray-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1037,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2126-destroying-asteroids) |
 | [2542-maximum-subsequence-score](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2542-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2689-rearranging-fruits) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3689-maximum-total-subarray-value-i) |
@@ -1432,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -1468,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1777-determine-if-two-strings-are-close) |
 | [1854-maximum-population-year](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
