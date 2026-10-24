@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0414-third-maximum-number) |
 | [0427-construct-quad-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0427-construct-quad-tree) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0435-non-overlapping-intervals) |
 | [0583-delete-operation-for-two-strings](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0583-delete-operation-for-two-strings) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0502-ipo) |
@@ -1222,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0560-subarray-sum-equals-k) |
@@ -1331,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0532-k-diff-pairs-in-an-array) |
