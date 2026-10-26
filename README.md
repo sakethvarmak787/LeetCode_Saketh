@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0414-third-maximum-number) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0435-non-overlapping-intervals) |
