@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0811-subdomain-visit-count) |
 | [0821-shortest-distance-to-a-character](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0825-friends-of-appropriate-ages) |
+| [0827-making-a-large-island](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
 | [0875-koko-eating-bananas](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0881-boats-to-save-people) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0904-leaf-similar-trees) |
@@ -1511,6 +1513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0766-toeplitz-matrix) |
+| [0827-making-a-large-island](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0827-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -1631,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0871-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0909-snakes-and-ladders) |
@@ -1784,6 +1788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0547-number-of-provinces) |
+| [0827-making-a-large-island](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/0839-similar-string-groups) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sakethvarmak787/LeetCode_Saketh/tree/master/1971-find-if-path-exists-in-graph) |
